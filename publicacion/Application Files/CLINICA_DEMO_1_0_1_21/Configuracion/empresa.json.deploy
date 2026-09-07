@@ -1,0 +1,11 @@
+{
+  "EmpresaId": 1,
+  "Nombre": "Vinali",
+  //"ApiBaseUrl": "https://apiclinica.qf.com.pe/",
+  "ApiBaseUrl": "http://apiclinicademo.vinali.pe/",
+  //"ApiBaseUrl": "https://localhost:7146/",
+  "Icono": "icono.ico",
+  "Logo": "logo.png",
+  "ImgLogin": "img-login.jpeg",
+  "ImgMain": "main.png"
+}
